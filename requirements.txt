@@ -1,0 +1,7 @@
+requests
+nltk
+textblob
+youtube_transcript_api
+openai
+streamlit
+plotly
